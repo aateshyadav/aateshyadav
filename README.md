@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aatesh</h1>
+<h1 align="center">Hi 👋, I'm Aatesh Yadav</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | ML Enthusiast</h3>
 
 <p align="center">
@@ -6,11 +6,16 @@
   in full-stack web development, Python backend engineering, and machine learning.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aateshyadav&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
 ---
 
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science Engineering, Jaypee University of Information Technology, Solan (2022 – 2026)
+- 📄 Know about my experiences: [Resume](https://github.com/aateshyadav/aateshyadav/blob/main/Aatesh_Resume.pdf)
 - 📫 Reach me at **aateshyadav1401@gmail.com**
 - 🔗 [LinkedIn](https://linkedin.com/in/aateshyadav)
 
@@ -33,6 +38,8 @@
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aateshyadav&show_icons=true&theme=default&hide_title=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aateshyadav&theme=default)
 
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aateshyadav&theme=github)
 
