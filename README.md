@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aatesh Yadav</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | ML Enthusiast</h3>
 
+
 <p align="center">
   Computer Science undergraduate (B.Tech, Jaypee University of Information Technology, 2022–2026) with hands-on experience
   in full-stack web development, Python backend engineering, and machine learning.
