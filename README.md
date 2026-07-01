@@ -36,12 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aateshyadav&show_icons=true&theme=default&hide_title=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aateshyadav&theme=default)
-
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aateshyadav&theme=github)
 
 ---
