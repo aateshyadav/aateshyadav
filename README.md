@@ -1,43 +1,84 @@
 <h1 align="center">Hi 👋, I'm Aatesh Yadav</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | ML Enthusiast</h3>
 
+<h3 align="center">Software Engineer | Java Full Stack Developer</h3>
 
 <p align="center">
-  Computer Science undergraduate (B.Tech, Jaypee University of Information Technology, 2022–2026) with hands-on experience
-  in full-stack web development, Python backend engineering, and machine learning.
+Passionate about designing scalable software solutions and building modern web applications using Java, Spring Boot, React, Node.js, and cloud-ready technologies.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aateshyadav&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=aateshyadav&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science Engineering, Jaypee University of Information Technology, Solan (2022 – 2026)
-- 📄 Know about my experiences: [Resume](https://github.com/aateshyadav/aateshyadav/blob/main/Aatesh_Resume.pdf)
+- 💻 Software Engineer with hands-on experience in full-stack and backend development through internships and personal projects.
+- 🌱 Currently strengthening my skills in **Data Structures & Algorithms, System Design, and Backend Engineering.**
+- 🚀 Passionate about writing clean, maintainable, and scalable software.
 - 📫 Reach me at **aateshyadav1401@gmail.com**
-- 🔗 [LinkedIn](https://linkedin.com/in/aateshyadav)
+- 💼 LinkedIn: **https://linkedin.com/in/aateshyadav**
 
 ---
 
-### 🧰 Tech Stack
+## 🛠 Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Languages
 
-**Web:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Backend
 
-**AI/ML:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Frontend
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ---
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aateshyadav&theme=github)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aateshyadav&theme=github_dark)
 
 ---
 
-<p align="center"><i>Open to Software Engineer / Full-Stack Developer opportunities 🚀</i></p>
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/aateshyadav" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="mailto:aateshyadav1401@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://github.com/aateshyadav"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
+
+---
+
+<h3 align="center">🚀 Open to Software Engineer, Java Developer & Backend Developer opportunities.</h3>
