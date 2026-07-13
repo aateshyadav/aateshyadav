@@ -67,8 +67,7 @@ Passionate about designing scalable software solutions and building modern web a
 
 
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aateshyadav&theme=github)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aateshyadav&layout=compact&theme=github_dark)
 ---
 
 ## 🤝 Connect with Me
