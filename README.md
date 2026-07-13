@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Java Full Stack Developer</h3>
 
 <p align="center">
-Passionate about designing scalable software solutions and building modern web applications using Java, Spring Boot, React, Node.js, and cloud-ready technologies.
+Building scalable backend systems and modern full-stack applications using Java, Spring Boot, React, and cloud-ready technologies.
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@ Passionate about designing scalable software solutions and building modern web a
 
 ## 👨‍💻 About Me
 
-- 💻 Software Engineer with hands-on experience in full-stack and backend development through internships and personal projects.
-- 🌱 Currently strengthening my skills in **Data Structures & Algorithms, System Design, and Backend Engineering.**
+- 💻 Software Engineer with hands-on experience building full-stack applications and backend systems.
+- 🌱 Currently strengthening my skills in **Data Structures & Algorithms**, **System Design**, and **Backend Engineering**.
 - 🚀 Passionate about writing clean, maintainable, and scalable software.
-- 📫 Reach me at **aateshyadav1401@gmail.com**
+- 📫 Email: **aateshyadav1401@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/aateshyadav**
 
 ---
@@ -65,19 +65,40 @@ Passionate about designing scalable software solutions and building modern web a
 
 ---
 
+## 💻 Most Used Languages
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aateshyadav&layout=compact&theme=github_dark)
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/aateshyadav" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:aateshyadav1401@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-<a href="https://github.com/aateshyadav"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aateshyadav&theme=github_dark" />
 </p>
 
 ---
 
-<h3 align="center">🚀 Open to Software Engineer, Java Developer & Backend Developer opportunities.</h3>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aateshyadav&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/aateshyadav" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:aateshyadav1401@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/aateshyadav" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">
+🚀 Open to Software Engineer • Java Developer • Backend Developer opportunities
+</h3>
