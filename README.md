@@ -67,7 +67,7 @@ Passionate about designing scalable software solutions and building modern web a
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aateshyadav&theme=github_dark)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aateshyadav&theme=github)
 
 ---
 
