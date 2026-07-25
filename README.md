@@ -70,7 +70,11 @@ Building scalable backend systems and modern full-stack applications using Java,
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aateshyadav&theme=github_dark" />
+  <img src="https://img.shields.io/badge/Java-60%25-ED8B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-10%25-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-5%25-E34F26?style=flat-square" />
+  <img src="https://img.shields.io/badge/Other-5%25-6E7781?style=flat-square" />
 </p>
 
 ---
@@ -78,7 +82,7 @@ Building scalable backend systems and modern full-stack applications using Java,
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aateshyadav&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aateshyadav&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
