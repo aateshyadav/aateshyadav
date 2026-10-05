@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aatesh Yadav</h1>
+<h1 align="center">Hi 👋, I'm Aatesh</h1>
 
-<h3 align="center">Software Engineer | Java Full Stack Developer</h3>
-
-<p align="center">
-Building scalable backend systems and modern full-stack applications using Java, Spring Boot, React, and cloud-ready technologies.
-</p>
+<h3 align="center">Software Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aateshyadav&style=flat-square&color=blue" alt="Profile Views"/>
